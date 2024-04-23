@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.list {
+  list-style-type: none;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.titleDurationContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.durationContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.logo {
+  align-self: center;
+}

@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.titleDurationContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.timerContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.logo {
+  align-self: center;
+}
+
+.image {
+  height: 350px;
+}
